@@ -1,3 +1,4 @@
-/Data/
-deepfake_model.h5
+DeepfakeImageDetection/Data/
+/DeepfakeImageDetection/deepfake_model.h5
 /myvenv/
+/DeepfakeVideoDetection/deepfake_video_detection.h5
